@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "29922339-a44a-4f61-be9d-fdba724cbf7a",
+  "slug": "raul-bautista",
+  "name": "Raul Bautista",
+  "kind": "person",
+  "status": "published",
+  "role": "Bank robber",
+  "summary": "Raul is an experienced bank robber whose appetite for risk shapes his crew’s choices.",
+  "biographyHtml": "<p>Rockstar describes Raul as a seasoned bank robber searching for capable partners. His willingness to take bigger risks raises the stakes for his crew.</p>",
+  "imageId": "41efdc40-0528-45b7-811d-f0548c72e6db",
+  "imageCaption": "",
+  "facts": [],
+  "relationshipIds": [],
+  "memberIds": [],
+  "sources": [
+    {
+      "label": "Rockstar Games — Only in Leonida",
+      "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    }
+  ],
+  "updatedAt": "2026-11-11T19:52:20.065Z",
+  "seo": {}
+}

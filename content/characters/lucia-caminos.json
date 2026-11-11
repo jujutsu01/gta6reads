@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "eb301051-7b97-4fb9-b1ff-8b6feff5df11",
+  "slug": "lucia-caminos",
+  "name": "Lucia Caminos",
+  "kind": "person",
+  "status": "published",
+  "role": "Person in the GTA VI story",
+  "summary": "Lucia leaves the Leonida Penitentiary with a plan to improve her future, and Jason is part of the story ahead.",
+  "biographyHtml": "<p>Rockstar says Lucia served time after fighting for her family. She wants a better life and intends to pursue it through deliberate moves.</p>",
+  "imageId": "78eff94c-bdd2-4f26-8a0e-fcf3b16bfbd9",
+  "imageCaption": "",
+  "facts": [],
+  "relationshipIds": [
+    "1f40c4e9-1652-464a-ba20-aeeee5d08827"
+  ],
+  "memberIds": [],
+  "sources": [
+    {
+      "label": "Rockstar Games — Only in Leonida",
+      "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    }
+  ],
+  "updatedAt": "2026-11-11T19:52:20.059Z",
+  "seo": {}
+}

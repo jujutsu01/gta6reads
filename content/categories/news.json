@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "b5858061-fac5-4726-97d3-a6da7d064933",
+  "slug": "news",
+  "name": "News",
+  "introduction": "Official announcements and source-linked coverage.",
+  "coverMediaId": null,
+  "order": 20,
+  "seo": {}
+}

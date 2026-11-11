@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "61d8406f-6d56-4f0f-a6ba-324392f39e88",
+  "slug": "brian-heder",
+  "name": "Brian Heder",
+  "kind": "person",
+  "status": "published",
+  "role": "Keys smuggler",
+  "summary": "Brian runs a boat yard in the Keys and has an arrangement with Jason.",
+  "biographyHtml": "<p>Rockstar says Brian still moves product through his boat yard. Jason stays at one of Brian’s properties and helps with local work in return.</p>",
+  "imageId": "6fb4a41b-e6eb-44df-9f70-fc1aa889adbb",
+  "imageCaption": "",
+  "facts": [],
+  "relationshipIds": [
+    "1f40c4e9-1652-464a-ba20-aeeee5d08827",
+    "75b05016-234c-4760-98ab-6f7bbbca231a"
+  ],
+  "memberIds": [],
+  "sources": [
+    {
+      "label": "Rockstar Games — Only in Leonida",
+      "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    }
+  ],
+  "updatedAt": "2026-11-11T19:52:20.066Z",
+  "seo": {}
+}

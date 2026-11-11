@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "4c1cca76-6573-41e3-b41b-35cfa6519c4d",
+  "slug": "real-dimez",
+  "name": "Real Dimez",
+  "kind": "group",
+  "status": "published",
+  "role": "Rap duo",
+  "summary": "Bae-Luxe and Roxy perform together as Real Dimez and are signed to Only Raw Records.",
+  "biographyHtml": "<p>Rockstar identifies Bae-Luxe and Roxy as longtime friends who built a following through music and social media. The duo is seeking another success with Only Raw Records.</p>",
+  "imageId": "037c4cf9-fe69-46a1-b6d8-e55bb7132e0c",
+  "imageCaption": "",
+  "facts": [],
+  "relationshipIds": [
+    "438f93f9-19e6-4db8-8ac3-7ee30417ac9d",
+    "628095db-9656-4605-9c5f-d03137d3576f",
+    "e10a6ce0-f30a-4fa5-b198-bab885c74967"
+  ],
+  "memberIds": [
+    "438f93f9-19e6-4db8-8ac3-7ee30417ac9d",
+    "628095db-9656-4605-9c5f-d03137d3576f"
+  ],
+  "sources": [
+    {
+      "label": "Rockstar Games — Only in Leonida",
+      "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    }
+  ],
+  "updatedAt": "2026-11-11T19:52:20.063Z",
+  "seo": {}
+}

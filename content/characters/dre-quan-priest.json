@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "e10a6ce0-f30a-4fa5-b198-bab885c74967",
+  "slug": "dre-quan-priest",
+  "name": "Dre'Quan Priest",
+  "kind": "person",
+  "status": "published",
+  "role": "Music entrepreneur",
+  "summary": "Dre’Quan wants to make his mark in music and has signed Real Dimez to Only Raw Records.",
+  "biographyHtml": "<p>Rockstar describes Dre’Quan’s long interest in music and his work with Boobie. Signing Real Dimez is part of his move into the Vice City scene.</p>",
+  "imageId": "4338e5be-3b23-4051-8abb-863bc6e26d3c",
+  "imageCaption": "",
+  "facts": [],
+  "relationshipIds": [
+    "cf1ce6d8-d76b-439c-b65c-bb6466dc9e38",
+    "4c1cca76-6573-41e3-b41b-35cfa6519c4d"
+  ],
+  "memberIds": [],
+  "sources": [
+    {
+      "label": "Rockstar Games — Only in Leonida",
+      "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    }
+  ],
+  "updatedAt": "2026-11-11T19:52:20.062Z",
+  "seo": {}
+}

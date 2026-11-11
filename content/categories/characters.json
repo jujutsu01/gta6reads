@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "520da6db-21bd-4688-a46c-4dfc546173c4",
+  "slug": "characters",
+  "name": "Characters",
+  "introduction": "Profiles and stories from Leonida.",
+  "coverMediaId": null,
+  "order": 30,
+  "seo": {}
+}

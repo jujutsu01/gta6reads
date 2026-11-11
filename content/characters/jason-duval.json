@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "1f40c4e9-1652-464a-ba20-aeeee5d08827",
+  "slug": "jason-duval",
+  "name": "Jason Duval",
+  "kind": "person",
+  "status": "published",
+  "role": "Person in the GTA VI story",
+  "summary": "Jason is trying to build a better life in Leonida while his connection with Lucia draws him into a larger criminal story.",
+  "biographyHtml": "<p>Rockstar places Jason in the Leonida Keys and describes his work for local drug runners. His bond with Lucia is central to the official story outline.</p>",
+  "imageId": "344afffc-6925-456b-8d2b-da6220d41e55",
+  "imageCaption": "",
+  "facts": [],
+  "relationshipIds": [
+    "eb301051-7b97-4fb9-b1ff-8b6feff5df11",
+    "75b05016-234c-4760-98ab-6f7bbbca231a",
+    "61d8406f-6d56-4f0f-a6ba-324392f39e88"
+  ],
+  "memberIds": [],
+  "sources": [
+    {
+      "label": "Rockstar Games — Only in Leonida",
+      "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    }
+  ],
+  "updatedAt": "2026-11-11T19:52:20.057Z",
+  "seo": {}
+}

@@ -1,0 +1,16 @@
+{
+  "file": "community-leonida-basemap.webp",
+  "sourceRepository": "https://github.com/navanem/gta6-leonida-atlas",
+  "sourceUrl": "https://raw.githubusercontent.com/navanem/gta6-leonida-atlas/83cf9870aa64a2b1b66939e2a49aeb36ac3a4158/public/assets/gta6-leonida-atlas/basemap.webp",
+  "sourceRevision": "83cf9870aa64a2b1b66939e2a49aeb36ac3a4158",
+  "upstreamPath": "public/assets/gta6-leonida-atlas/basemap.webp",
+  "sourceNotices": "https://github.com/navanem/gta6-leonida-atlas/blob/83cf9870aa64a2b1b66939e2a49aeb36ac3a4158/THIRD_PARTY_LICENSES.md",
+  "attribution": "gtadb.org and contributors; community reconstruction map artwork credited by upstream",
+  "dataLicenseReportedByUpstream": "CC BY 4.0 for GTADB-derived data and cartographic source material",
+  "upstreamCodeLicense": "AGPL-3.0-only; no application code copied",
+  "rightsStatus": "Planning reference; retain asset-specific credits and source notices before public use",
+  "accuracy": "Community reconstruction, not official Rockstar map geometry or a validated in-game road network",
+  "roadNetwork": "Not supplied; this raster cannot calculate routes without an independently curated graph",
+  "downloadedAt": "2026-11-11T19:00:39.942423+00:00",
+  "bytes": 2502726
+}

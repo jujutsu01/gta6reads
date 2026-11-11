@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "cf1ce6d8-d76b-439c-b65c-bb6466dc9e38",
+  "slug": "boobie-ike",
+  "name": "Boobie Ike",
+  "kind": "person",
+  "status": "published",
+  "role": "Vice City business figure",
+  "summary": "Boobie runs a mix of legitimate businesses and is invested in the success of Only Raw Records.",
+  "biographyHtml": "<p>Rockstar presents Boobie as a Vice City figure with interests in real estate, a club and a recording studio. His partnership with Dre’Quan centers on their record label.</p>",
+  "imageId": "c684168e-13f3-4112-b793-67e51ed334bc",
+  "imageCaption": "",
+  "facts": [],
+  "relationshipIds": [
+    "e10a6ce0-f30a-4fa5-b198-bab885c74967"
+  ],
+  "memberIds": [],
+  "sources": [
+    {
+      "label": "Rockstar Games — Only in Leonida",
+      "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    }
+  ],
+  "updatedAt": "2026-11-11T19:52:20.061Z",
+  "seo": {}
+}

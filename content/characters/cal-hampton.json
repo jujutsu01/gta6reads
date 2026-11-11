@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "75b05016-234c-4760-98ab-6f7bbbca231a",
+  "slug": "cal-hampton",
+  "name": "Cal Hampton",
+  "kind": "person",
+  "status": "published",
+  "role": "Jason’s friend",
+  "summary": "Cal is a friend of Jason and an associate of Brian who prefers watching the world from home.",
+  "biographyHtml": "<p>Rockstar describes Cal as Jason’s friend and Brian’s fellow associate. His interest in Coast Guard communications and conspiracy ideas shapes his outlook.</p>",
+  "imageId": "811055c1-f354-41a1-b7d2-ac433c2cb4d7",
+  "imageCaption": "",
+  "facts": [],
+  "relationshipIds": [
+    "1f40c4e9-1652-464a-ba20-aeeee5d08827",
+    "61d8406f-6d56-4f0f-a6ba-324392f39e88"
+  ],
+  "memberIds": [],
+  "sources": [
+    {
+      "label": "Rockstar Games — Only in Leonida",
+      "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    }
+  ],
+  "updatedAt": "2026-11-11T19:52:20.060Z",
+  "seo": {}
+}

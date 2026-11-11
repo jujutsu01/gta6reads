@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "c448831f-28ce-4737-95dc-6dd65bbb6979",
+  "slug": "updates",
+  "name": "Updates",
+  "introduction": "Changes to confirmed release information and the site itself.",
+  "coverMediaId": null,
+  "order": 40,
+  "seo": {}
+}

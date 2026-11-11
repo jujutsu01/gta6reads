@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "438f93f9-19e6-4db8-8ac3-7ee30417ac9d",
+  "slug": "bae-luxe",
+  "name": "Bae-Luxe",
+  "kind": "person",
+  "status": "published",
+  "role": "Real Dimez member",
+  "summary": "Bae-Luxe is one half of Real Dimez, the duo signed to Only Raw Records.",
+  "biographyHtml": "<p>Rockstar names Bae-Luxe as a member of Real Dimez alongside Roxy. The shared official group artwork shows the duo; it is not identified as a solo portrait.</p>",
+  "imageId": "037c4cf9-fe69-46a1-b6d8-e55bb7132e0c",
+  "imageCaption": "Shared official Real Dimez group artwork; this is not an individual portrait.",
+  "facts": [],
+  "relationshipIds": [
+    "4c1cca76-6573-41e3-b41b-35cfa6519c4d",
+    "628095db-9656-4605-9c5f-d03137d3576f"
+  ],
+  "memberIds": [],
+  "sources": [
+    {
+      "label": "Rockstar Games — Only in Leonida",
+      "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    }
+  ],
+  "updatedAt": "2026-11-11T19:52:20.064Z",
+  "seo": {}
+}

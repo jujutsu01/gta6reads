@@ -1,0 +1,7 @@
+{
+  "name": "@gta6/cms-server",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": { "@gta6/contracts": "0.1.0", "@gta6/content": "0.1.0" }
+}
